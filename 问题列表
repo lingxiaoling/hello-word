@@ -1,0 +1,10 @@
+1、调用浏览器自带的分享功能实现原生分享
+
+UC浏览器 QQ浏览器
+https://github.com/JefferyWang/nativeShare.js
+
+2、微信内置分享属性
+被禁止使用了
+https://www.baidufe.com/item/f07a3be0b23b4c9606bb.html
+
+3、任何网页 调起原生app 进行分享
